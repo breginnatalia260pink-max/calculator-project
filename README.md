@@ -29,4 +29,4 @@ python calculator.py
 Бажаю вам гарного користвання цією програмою
 
 Second step
-
+From GitHub
